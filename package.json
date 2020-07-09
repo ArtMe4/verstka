@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtMe4/verstka.git"
+  },
+  "author": "Artur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtMe4/verstka/issues"
+  },
+  "homepage": "https://github.com/ArtMe4/verstka#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
